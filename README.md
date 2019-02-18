@@ -17,4 +17,4 @@ Download [SRB2-Data.zip](https://downloads.devkitpro.org/srb2_data.zip) and plac
 
 Create a folder named "srb2" at "ux0:/data/srb2vita" for storing configurations and save files.
 
-This is a beta where you cannot complete all levels. [Here] is a fully complete save file that will allow you to use level select and other cheats. Place gamedata.dat at "ux0:/data/srb2vita/srb2"
+This is a beta where you cannot complete all levels. [Here](https://cdn.discordapp.com/attachments/400692448902512650/547142675216990211/gamedata.dat) is a fully complete save file that will allow you to use level select and other cheats. Place gamedata.dat at "ux0:/data/srb2vita/srb2"
