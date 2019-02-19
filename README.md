@@ -17,4 +17,8 @@ Download [SRB2-Data.zip](https://downloads.devkitpro.org/srb2_data.zip) and plac
 
 Create a folder named "srb2" at "ux0:/data/srb2vita" for storing configurations and save files.
 
+
+# Notes 
 This is a beta where you cannot complete all levels. [Here](https://cdn.discordapp.com/attachments/400692448902512650/547142675216990211/gamedata.dat) is a fully complete save file that will allow you to use level select and other cheats. Place gamedata.dat at "ux0:/data/srb2vita/srb2"
+
+SRB2 Vita is based on SRB2 2.1.20, which serves as the base of the [3DS](https://github.com/derrekr/srb2_3ds/) and the initial [Switch](https://github.com/carstene1ns/SRB2/tree/switch-port) ports. As this is an older version, many improvements to OpenGL aren't available, which results in rendering issues on levels as well as the introduction.
